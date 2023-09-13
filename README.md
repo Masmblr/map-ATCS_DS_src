@@ -2,7 +2,7 @@
 ![header](meta/header/header.jpg)
 
 ## Overview:
-ATCS DS is a game level by Matthias "Masmblr" Peters for the open source game [_Tremulous_](https://tremulous.net/). This map utilizes a skybox done by MegaKosan. The `DS-Logo` is created by DretchhStorm Logo by [Oblivion](dretchstorm.com). Original A.T.C.S by Nicolas "jex" Jansens
+ATCS DS is a game level by Matthias "Masmblr" Peters for the open source game [_Tremulous_](https://tremulous.net/). This map utilizes a skybox done by MegaKosan. The `DS-Logo` is created by DretchhStorm Logo by [Oblivion](https://www.dretchstorm.com). Original A.T.C.S by Nicolas "jex" Jansens
 
 Map Description: 
 > Built from scratch, the map features an original ATCS layout. Complementing this is a comprehensive new texture set, elevating the visual aspect. Notably, the central area's illumination in the respective team colors upon victory. 
