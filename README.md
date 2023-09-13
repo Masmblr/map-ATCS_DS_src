@@ -196,7 +196,7 @@ License: Attribution License
 
 ### Credit-4
 
-MegaKosan \ 
+MegaKosan \
 Content: Skybox \
 License: Attribution License
 
